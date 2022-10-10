@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93f721d8.css",
+    "main.js": "/static/js/main.608ab924.js",
+    "static/media/logo.png": "/static/media/logo.d05ee4969de6a6c968b5.png",
+    "static/media/billgates.jpg": "/static/media/billgates.d41dbce3771a1a13bce6.jpg",
+    "index.html": "/index.html",
+    "main.93f721d8.css.map": "/static/css/main.93f721d8.css.map",
+    "main.608ab924.js.map": "/static/js/main.608ab924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f721d8.css",
+    "static/js/main.608ab924.js"
+  ]
+}
